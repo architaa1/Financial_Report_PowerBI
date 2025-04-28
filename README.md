@@ -31,11 +31,13 @@ The goal of this project is to create a **dynamic financial reporting dashboard*
 
 ## 📂 Folder Structure
 
-```plaintext
 Financial_Report_PowerBI/
+
 ├── FinancialReport.pbix    # Power BI Dashboard File
+
 ├── README.md               # Project Documentation
-└── FinancialData.xlsx      # Sample financial dataset (optional if added)
+
+└── FinancialData.xlsx      # Sample financial dataset 
 
 ## 🚀 How to Use
 Download the .pbix file.
